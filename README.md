@@ -16,7 +16,7 @@
 
 
 	
-##Como Execultar?
+## Como Execultar?
 
 ##### Se o servidor apache estiver rodando juntamente como o banco de dados Mysql, basta abrir o navegador e colar esse endereço no browser (http://localhost/abctechusa/).
 
