@@ -60,7 +60,7 @@
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownProfile">
               <a class="dropdown-item  <?= ($menu == "person") ? 'active' : '' ?>" href="<?= base_url("meuperfil") ?>">Meu Perfil</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="<?= base_url("logoff") ?>">Sair</a>
+              <a class="dropdown-item" href="">Sair</a>
             </div>
           </li>
         </ul>

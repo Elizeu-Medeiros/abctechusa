@@ -95,14 +95,14 @@ The above copyright notice and this permission notice shall be included in all c
                         <div class="collapse" id="collapseExample">
                             <ul class="nav">
                                 <li class="nav-item  <?= (@$menu == "person") ? 'active' : '' ?>">
-                                    <a class=" nav-link" href="<?= base_url("membro/meuperfil") ?>">
+                                    <a class=" nav-link" href="">
                                         <span class="sidebar-mini"> MP </span>
                                         <span class="sidebar-normal"> Meu Perfil </span>
                                     </a>
                                 </li>
                                 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="<?= base_url("logoff") ?>">
+                                    <a class="nav-link" href="">
                                         <span class="sidebar-mini"> S </span>
                                         <span class="sidebar-normal"> Sair </span>
                                     </a>
@@ -114,7 +114,7 @@ The above copyright notice and this permission notice shall be included in all c
                 </div>
                 <ul class="nav">
                     <li class="nav-item  <?= ($menu == "dashboard") ? 'active' : '' ?>">
-                        <a class="nav-link" href="<?= base_url('membro') ?>">
+                        <a class="nav-link" href="">
                             <i class="material-icons">dashboard</i>
                             <p>Dashboard</p>
                         </a>
