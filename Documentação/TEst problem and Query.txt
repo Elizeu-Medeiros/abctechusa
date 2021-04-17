@@ -1,0 +1,10 @@
+Problem: Display a table with Payments Total and Sales Order Count by Account Type (Lines) and States (Columns). Payments must be "PAID" as its status.
+OBS: Each Sales Order might have more than one payment. Payments can have status Paid and Pending.
+Create a PHP code to show a HTML page with this table result.
+DB Description: Check Documentation
+
+
+Result
+"Account_Type"	"Florida_Payment_Total"	"California_Payment_Total" "Number of Orders"
+"Distributor"	"ZZZZ"			"AAAAA"				XXXX
+"Reseller"	"SSSSS"			"FFFFF"				YYYY
